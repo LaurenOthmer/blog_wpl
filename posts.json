@@ -1,0 +1,17 @@
+[
+{
+    "ID": 3,
+    "title": "Week 3",
+    "content": "In het begin van deze week heb ik nog verder gewerkt aan de brieven, deze keer kreeg ik een opdracht waar ik de Tikz package van Latex voor moest gebruiken. Dit is een package dat graphics van creëren op een gegenereerde PDF. Ik moest deze gebruiken om een OMR code te vervangen door een data matrix. Vanaf woensdag heb ik een nieuw project gekregen. Ik moet fotos uit mails forwarden naar een slack kanaal, en die moet ik dan op een scherm krijgen via een Raspberry Pie. Hiervoor ben ik begonnen met Python. Het is heel leuk om dit te leren."
+},
+{
+    "ID": 2,
+    "title": "Week 2",
+    "content": "Deze week heb ik niet zoveel gedaan, aangezien ik ziek ben geweest. Ik heb me vooral verder bezig gehouden met de brieven en Latex. Ook heb ik geleerd hoe je in IntelliJ configuratie aanpast van test runs."
+},
+    {
+    "ID": 1,
+    "title": "Week 1",
+    "content": "Deze week ben ik vooral me beginnen inwerken. De eerste dag heb ik leren werken met Maven en een tomcat server, wat ze gebruiken voor Adminpanel op te starten. Ik heb me deze week vooral bezig gehouden met de generatie van brieven, waar ik de Latex gebruik in combinatie met Java. We hebben ook een briefing gekregen over security. We hebben ook een AI chatbot gekregen, Kiro, en daar ben ik ook mee aan het leren werken."
+}
+]
