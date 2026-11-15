@@ -1,5 +1,9 @@
 [
-      
+          {
+        "ID": 8,
+    "title" : "Week 8",
+    "content" : "Er is deze week heel rustig geweest, vooral door de feestdag woensdag. Ik heb echter wel wat werk kunnen verzetten met de hulp vam eem collega. Ik ben nu vooral met Java en Tapestry bezig, en ik ben redelijk mee op het moment. Ik heb jobs geschreven en de achterliggende factories. Het gaat nu wel echt goed."
+},
     {
         "ID": 7,
     "title" : "Week 7",
